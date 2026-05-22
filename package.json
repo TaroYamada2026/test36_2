@@ -1,7 +1,7 @@
 {
   "name": "react-vite-ts-template",
   "version": "1.0.0",
-  "homepage": "https://TaroYamada2026.github.io/test35",
+  "homepage": "https://TaroYamada2026.github.io/test36_2",
   "description": "",
   "scripts": {
     "start": "vite",
@@ -10,10 +10,10 @@
   "dependencies": {
     "@types/react": "18.0.26",
     "@types/react-dom": "18.0.10",
-    "@vitejs/plugin-react": "3.0.1",
+    "@vitejs/plugin-react": "^6.0.2",
     "react": "18.2.0",
     "react-dom": "18.2.0",
-    "vite": "4.0.4"
+    "vite": "^8.0.14"
   },
   "devDependencies": {
     "typescript": "4.7.3"
